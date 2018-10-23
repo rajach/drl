@@ -13,7 +13,7 @@ Use the instructions to run the projects:
 
 ## Authors
 
-* **Raja Chinnam** - *Initial work* - [rajach](https://github.com/rajach)
+* **Raja Chinnam** - [rajach](https://github.com/rajach)
 
 ## License
 
